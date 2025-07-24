@@ -31,7 +31,8 @@ To set up the project locally, follow these steps:
 <img width="1470" height="862" alt="Screenshot 2025-07-24 at 8 02 28 PM" src="https://github.com/user-attachments/assets/16dde101-379c-4951-9f7c-d99e4deb477a" />
 <img width="1470" height="862" alt="Screenshot 2025-07-24 at 8 02 39 PM" src="https://github.com/user-attachments/assets/104e083d-70a7-4dfd-9387-d807fdea26c5" />
 
-Thank you for checking out the RazorPay Clone! We hope you enjoy exploring its features and functionalities. Have a great day! 👋
+
+# Thank you for checking out the RazorPay Clone! We hope you enjoy exploring its features and functionalities. Have a great day! 👋
 
 
 
