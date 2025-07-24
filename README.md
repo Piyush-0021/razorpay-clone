@@ -14,5 +14,6 @@ The website includes the following pages and features:
 # Getting Started
 To run the website locally, you can follow these steps:
 
+<img width="1470" height="956" alt="Screenshot 2025-07-24 at 8 01 36 PM" src="https://github.com/user-attachments/assets/f1ea7d73-1b4d-4899-ac3f-c7e10fa24335" />
 
 
